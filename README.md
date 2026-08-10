@@ -1,6 +1,6 @@
 # Desafio 3 Java Spring Professional - DevSuperior
 
-Esse projeto consiste no segundo desafio da formação Java Spring Professional da plataforma Devsuperior.
+Esse projeto consiste no terceiro desafio da formação Java Spring Professional da plataforma Devsuperior.
 
 ## Tecnologias
 
