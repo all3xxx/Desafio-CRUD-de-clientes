@@ -1,6 +1,6 @@
-# Desafio 3 Java Spring Professional - DevSuperior
+# Desafio CRUD de clientes - Java Spring Professional
 
-Esse projeto consiste no terceiro desafio da formação Java Spring Professional da plataforma Devsuperior.
+Projeto desenvolvido como parte do terceiro desafio da formação Java Spring Professional, da plataforma Devsuperior
 
 ## Tecnologias
 
